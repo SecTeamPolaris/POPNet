@@ -1,6 +1,6 @@
-# INFOCOM22_fewshot
+# HPCC2022 POPNet
 
-Source code for the under-review INFOCOM22 paper, ***A Glimpse of the Whole: Detecting Few-shot Android Malware Encrypted Network Traffic***
+Source code for HPCC2022 accepted paper, ***A Glimpse of the Whole: Detecting Few-shot Android Malware Encrypted Network Traffic***
 
 The project is written in Pytorch using the following backend: Intel i7-9750 @2.6GHz, 16GB RAM, NVIDIA GeForce RTX2060; Windows 10, CUDA 10.1, and PyTorch 1.0.1.
 
